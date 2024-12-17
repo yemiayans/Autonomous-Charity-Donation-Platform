@@ -9,3 +9,5 @@ M
 tests/fund-allocation.test.ts,2/6/26b8bde75102b48c61abc472ec877a539a405ab7
 Q
 !contracts/milestone-tracking.clar,1/3/136339d7b13dd902f9545c17f7451674e76db1a9
+P
+ tests/milestone-tracking.test.ts,8/b/8bcb78d0fd6a1112c2e6d946f463b5e181af5f55
